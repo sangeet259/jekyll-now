@@ -1,10 +1,15 @@
 ---
 layout: post
-title: You're up and running!
+title: Hello World Obligatory Post
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Fine. Done with the homepage (not much though).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Now time to have the obligatory **"Hello World"** post .
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+It's 3 am already and I am up , got Intro to Civil class tomorrow at 8 !
+Have to sleep , but I can't untill I set up this site fully . Let's see how fast I can finish this.
+
+## Good Night !
+
